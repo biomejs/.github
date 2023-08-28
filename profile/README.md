@@ -6,6 +6,6 @@
 
 <div align="center">
     <p style="font-size: 24px">
-        Join us on <a href="https://discord.gg/JXe7dnnc">Discord</a> or visit our <a href="https://biomejs.dev">website</a>.
+        Join us on <a href="https://discord.gg/BypW39g6Yc">Discord</a> or visit our <a href="https://biomejs.dev">website</a>.
     </p>
 </div>

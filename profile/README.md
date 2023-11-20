@@ -1,6 +1,6 @@
 <p align="center">
     <img alt="Biome - Toolchain of the web"
-         src="https://raw.githubusercontent.com/biomejs/resources/main/biome-logo-slogan.svg"
+         src="https://raw.githubusercontent.com/biomejs/resources/1d832a55018076e8fea386d46af1bc299d94ed38/biome-logo-slogan.svg"
          width="400">
 </p>
 

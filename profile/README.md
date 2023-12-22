@@ -1,7 +1,9 @@
 <p align="center">
-    <img alt="Biome - Toolchain of the web"
-         src="https://raw.githubusercontent.com/biomejs/resources/1d832a55018076e8fea386d46af1bc299d94ed38/biome-logo-slogan.svg"
-         width="400">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biomejs/resources/main/banner-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biomejs/resources/main/banner-light.svg">
+        <img alt="Shows the banner of Biome, with its logo and the phrase 'Toolchain of the web'." src="https://raw.githubusercontent.com/biomejs/resources/main/banner-light.svg" width="700">
+    </picture>
 </p>
 
 <div align="center">

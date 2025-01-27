@@ -7,5 +7,5 @@
   <br>
   <br>
 
-  Join us on [Discord](https://discord.gg/BypW39g6Yc) or visit our [website](https://biomejs.dev).
+  > Join us on [Discord](https://discord.gg/BypW39g6Yc) or visit our [website](https://biomejs.dev).
 </div>
